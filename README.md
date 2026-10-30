@@ -55,7 +55,7 @@ I enjoy working with Java, Spring Boot, REST APIs, and relational databases.
 ### 🔗 Connect With Me
 
 - GitHub: [@Sahilsthr](https://github.com/Sahilsthr)
-- LinkedIn: Add your LinkedIn URL
+- LinkedIn:(https://www.linkedin.com/in/sahilsuthar4/)
 - Portfolio: [My Portfolio](https://sahilsthr.github.io/)
 - Email: sahilsuthar.238@gmail.com
 
